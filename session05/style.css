@@ -1,0 +1,61 @@
+
+body{
+  margin:0px;
+  padding:0px;
+  background-color: white;
+
+}
+.outer{
+   text-align: left;
+   padding:20px;
+}
+.page{
+   width:1000px;
+   background-color: white;
+   text-align: left;
+   font-family: 'Poppins', sans-serif;
+   margin-left:50px; 
+   margin-top:10px;
+}
+a{
+  color:black;
+  font-size:16px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right:60px;
+}
+
+a:hover {
+  color:green;
+ }
+  a:active {
+  color:darkgray;
+}
+.nav{
+   font-family: 'Poppins', sans-serif;
+   margin-left:10px;
+   margin-top:10px;
+   text-align: left;
+
+}
+.navhere{
+  color:Olive;
+}
+  .header{
+    font-family: serif;
+    font-size: 25px;
+    font-weight: bolder;
+  }
+
+  .img{
+  	text-align: left;
+  	float: none;
+  	width: 80%;
+}
+
+.authorname{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bolder;
+  font-style: italic;
+}
