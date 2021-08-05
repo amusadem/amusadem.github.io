@@ -5,8 +5,6 @@ body{
 }
 
 
-
-
 .outer{
   text-align: center;
 }
@@ -89,3 +87,4 @@ div [class^="side_bar"]:last-of-type {
     margin: 0px;
 
 }
+
