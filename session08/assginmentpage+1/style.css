@@ -76,6 +76,7 @@ a:hover {
   cursor: pointer;
   max-width:300px;
 	height: auto;
+	text-align: center; 
 }
 
 .sportsimg:hover{
