@@ -20,12 +20,16 @@
      @keyframes myfilteranimation{
 
 
-			 50% {
-				 -webkit-filter: blur(0px) invert(1);
+		25%{
+		-webkit-filter: blur(25px) invert(1);
+	        filter: blur(25px) invert(1)
+			 }
+		50%{
+		-webkit-filter: blur(0px) invert(1);
 	        filter: blur(0px) invert(1);
 			 }
 
-				100%{
+		100%{
 	       -webkit-filter: blur(0px) saturate(2);
 	        filter: blur(0px) saturate(2);
 	       }
