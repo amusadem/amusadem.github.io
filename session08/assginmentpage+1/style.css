@@ -1,0 +1,85 @@
+
+body{
+  margin:0px;
+  padding:0px;
+  background-color: white;
+
+}
+.outer{
+   text-align: left;
+   padding:20px;
+}
+.page{
+   width:1000px;
+   background-color: white;
+   text-align: center;
+   display: inline-block;
+   font-family: 'Poppins', sans-serif;
+   margin-left:50px;
+   margin-top:50px;
+}
+a{
+  color:black;
+  font-size:16px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right:60px;
+}
+
+a:hover {
+  color:blue;
+ }
+  a:active {
+  color:darkgray;
+}
+.nav{
+   font-family: 'Poppins', sans-serif;
+   margin-left:30px;
+   margin-top:30px;
+   text-align: center;
+
+}
+.navhere{
+  color:darkgray;
+
+}
+  .header{
+    font-family: serif;
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: italic;
+  }
+
+  .header_img{
+  	text-align: center;
+  	float: none;
+  	max-width: 50%;
+}
+
+  .topnav_img{
+    text-align: center;
+    float: none;
+
+}
+
+.home_content{
+	font-size:20px;
+	text-align: center;
+}
+
+.home_text_headline{
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.sportsimg{
+  cursor: pointer;
+  max-width:300px;
+	height: auto;
+}
+
+.sportsimg:hover{
+
+ transform: scale(1.5,1.5);
+
+}
